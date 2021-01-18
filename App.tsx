@@ -12,7 +12,7 @@ const App: React.FC = () => {
 
 
   return (
-    <BrowserRouter>
+    <BrowserRouter >
       <Navbar />
       <div className="container">
         <Switch>
