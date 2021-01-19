@@ -7,7 +7,7 @@ import {AboutPage} from "./pages/AboutPage"
 
 
 
-
+// check update
 const App: React.FC = () => {
 
 
